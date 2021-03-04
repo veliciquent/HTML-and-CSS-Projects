@@ -1,0 +1,16 @@
+table {
+	border: 1px solid silver;
+}
+td:hover {
+	background: #FFD700;
+	color: #CD5C5C;
+}
+td {
+	background: #FFE4E1;
+	text-align: center;
+}
+h1 {
+	color: #FFD700;
+	text-align: center;
+	font-family: "Copperplate";
+}
